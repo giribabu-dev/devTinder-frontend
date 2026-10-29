@@ -1,6 +1,6 @@
 function App() {
   return (
-    <div>Dev Tinder Frontend</div>
+    <div className="text-3xl font-bold underline">Dev Tinder Frontend</div>
   )
 }
 
